@@ -1,0 +1,13 @@
+.middlemainLayout{
+    flex-direction: row;
+    display: flex;
+    height: 80vh;
+}
+@media screen and (max-width: 768px) {
+
+    .middlemainLayout{
+    flex-direction: column;
+    display: flex;
+    height: 80vh;
+}
+}

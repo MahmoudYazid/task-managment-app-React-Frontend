@@ -1,0 +1,9 @@
+.MainScreen{
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: white;
+  flex-direction: column;
+  display: flex;
+  flex-wrap: wrap;
+
+}

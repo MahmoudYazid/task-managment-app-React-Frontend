@@ -1,0 +1,46 @@
+.navbarMainLayout{
+flex-direction: row;
+display: flex;
+background-color: white;
+min-width: 100%;
+min-height: 2rem;
+
+
+}
+.AddBtmNavBar{
+    background-color: #2771C9;
+    height: 3rem;
+    min-width: 3rem;
+    margin-left: auto;
+    margin-right: 2rem;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    border-radius: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.AddBtmNavBar p {
+    color: white;
+    
+    font-weight: 700;
+    font-size: large;
+
+}
+.AddBtmNavBar:hover{
+    background-color: black;
+    cursor: pointer;
+ 
+}
+.Logo{
+    margin-right: auto;
+    margin-left: 2rem;
+    text-decoration: none;
+    color: black;
+}
+.Logo:hover{
+    color: #2771C9;
+}
