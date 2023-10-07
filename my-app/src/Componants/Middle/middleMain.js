@@ -10,7 +10,7 @@ export default function middleMain() {
           <LeftSide></LeftSide>
           <RightSide></RightSide>
     </section>
-      <DetailsWindow></DetailsWindow>
+      {/* <DetailsWindow></DetailsWindow> */}
     </>
   )
 }

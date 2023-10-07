@@ -2,10 +2,14 @@
     flex-direction: row;
     display: flex;
     height: 80vh;
+
+    align-items: center;
+    justify-items: center;
 }
 @media screen and (max-width: 768px) {
 
     .middlemainLayout{
+        display: flex;
     flex-direction: column;
     display: flex;
     height: 80vh;
